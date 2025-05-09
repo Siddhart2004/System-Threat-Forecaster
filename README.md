@@ -25,7 +25,9 @@ Cybersecurity is a growing concern, and being able to predict system threats can
 
 ## 📂 Dataset
 
-The datasets used (`train.csv` and `test.csv`) are located in the `System-Threat-Forecaster` directory.
+Dataset link - https://drive.google.com/drive/folders/1ks6mVzhXVwOIqRjNjA3vkrt2GwNe2qLN?usp=sharing
+
+The datasets used (`train.csv` and `test.csv`) .
 
 - `train.csv`: Used for model training and validation.
 - `test.csv`: Used for model inference.
