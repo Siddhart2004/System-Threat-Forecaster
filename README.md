@@ -53,7 +53,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 ## 📈 How to Use
 Clone this repository:
 
-git clone https://github.com/your-username/system-threat-forecaster.git
+git clone https://github.com/Siddhart2004/System-Threat-Forecaster
 cd system-threat-forecaster
 
 Open the notebook:
